@@ -183,3 +183,28 @@ http://127.0.0.1:8000/
 ```
 
 ---
+
+
+## 📸 Screenshots2
+
+Home Page
+
+![Home](screenshots2/home.png)
+Login page
+
+![Login](screenshots2/login.png)
+Register
+
+![Register](screenshots2/register.png)
+Customer Dashboard
+
+![Customer Dashboard](screenshots2/customer-dashboard.png)
+Vendor Dashboard
+
+![Vendor Dashboard](screenshots2/vendor-dashboard.png)
+Product List
+
+![Product List](screenshots2/productlist.png)
+Vendor List
+
+![Vendor List](screenshots2/vendorlist.png)
